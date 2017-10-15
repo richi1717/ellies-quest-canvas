@@ -1,0 +1,4 @@
+.idea/
+public/bundle.js*
+public/.DS_Store
+node_modules

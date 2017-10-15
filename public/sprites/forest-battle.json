@@ -1,0 +1,11 @@
+{
+  "imageURL": "/img/forest-battle.png",
+  "tileW": 512,
+  "tileH": 304,
+  "tiles": [
+    {
+      "name": "background",
+      "index": [0, 0]
+    }
+  ]
+}

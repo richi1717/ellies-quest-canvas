@@ -1,0 +1,14 @@
+{
+  "spriteSheet": "forest-battle",
+  "backgrounds": [
+    {
+      "tile": "background",
+      "ranges": [
+        [
+          0, 10,
+          0, 10
+        ]
+      ]
+    }
+  ]
+}
