@@ -9,6 +9,7 @@
     "node": ">=8"
   },
   "scripts": {
+    "lint": "eslint -c eslint.config.json . --ext .js",
     "webpack:watch": "webpack --config webpack.config.js",
     "start": "serve ./public",
     "styles": "node-sass --include-path scss client/styles/main.scss public/styles.css",
