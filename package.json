@@ -1,5 +1,5 @@
 {
-  "name": "Ellie's Quest",
+  "name": "ElliesQuest",
   "version": "0.0.1",
   "description": "Ellie's Quest with Canvas and JS",
   "main": "server.js",
